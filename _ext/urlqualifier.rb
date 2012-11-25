@@ -1,7 +1,5 @@
 module Awestruct::Extensions
   class UrlQualifier
-    def initialize()
-    end
 
     def execute(site)
       site.pages.each do |page|
@@ -21,5 +19,6 @@ module Awestruct::Extensions
         page.qurl = $1
       end
     end
+
   end
 end
