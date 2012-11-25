@@ -1,0 +1,10 @@
+title: My Site
+profiles:
+  production:
+    base_url: http://mojavelinux.github.com/mysite
+    deploy:
+      host: github_pages
+      # use gh-pages if deploying to other repository
+      branch: gh-pages
+      # use master if deploying to username.github.com
+      #branch: master

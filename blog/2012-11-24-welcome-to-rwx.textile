@@ -1,0 +1,6 @@
+---
+layout: post
+title: Welcome to RWX
+author: Dan
+---
+Welcome to sunny Ft Lauderdale!

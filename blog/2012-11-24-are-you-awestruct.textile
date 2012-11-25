@@ -1,0 +1,6 @@
+---
+layout: post
+title: Are you awestruct?
+author: Dan
+---
+What will it take to make you awestruct?

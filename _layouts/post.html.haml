@@ -1,0 +1,9 @@
+---
+layout: base
+---
+#content
+  .post
+    %h2.title
+      %a{:href=>page.qurl}= page.title
+    %h4= page.date.strftime("%A, %B %e, %Y")
+    ~ page.content

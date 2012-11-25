@@ -1,0 +1,14 @@
+// I gather this file is a starting point for the project.
+
+$iconSpritePath: url("../images/glyphicons-halflings.png");
+$iconWhiteSpritePath: url("../images/glyphicons-halflings-white.png");
+
+$navbarBackground: #303030;
+$navbarBackgroundHighlight: #6771DB;
+$navbarBrandColor: #FFCC66;
+$navbarLinkColor: #D9E0FF;
+
+@import "bootstrap";
+
+// Include responsive Bootstrap styles
+// @import "bootstrap-responsive";
