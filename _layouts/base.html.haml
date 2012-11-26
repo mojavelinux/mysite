@@ -37,6 +37,6 @@
     %script{ :type=>'text/javascript', :src=>"#{site.base_url}/javascripts/jquery-jgfeed.js" }
     %script{ :type=>'text/javascript', :src=>"#{site.base_url}/javascripts/site.js" }
     :javascript
-      fetchNews('https://therichwebexperience.com/s/rss/rich.rss', 10, '#news');
+      fetchNews('https://therichwebexperience.com/s/rss/rich.rss', '#news');
     - if site.google_analytics
       = google_analytics_async
