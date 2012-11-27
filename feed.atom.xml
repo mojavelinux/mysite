@@ -2,13 +2,13 @@
 <feed xml:lang='en-US' xmlns='http://www.w3.org/2005/Atom'>
   <id>http://mojavelinux.github.com/mysite/</id>
   <title>My Site</title>
-  <updated>2012-11-27T03:26:21-07:00</updated>
+  <updated>2012-11-27T08:43:14-07:00</updated>
   <link href='http://mojavelinux.github.com/mysite/feed.atom.xml' rel='self' type='application/atom+xml' />
   <link href='http://mojavelinux.github.com/mysite/' rel='alternate' type='text/html' />
   <entry>
     <id>http://mojavelinux.github.com/mysite/blog/2012/11/25/thats-a-wrap/</id>
     <title>That's a wrap!</title>
-    <updated>2012-11-27T03:26:21-07:00</updated>
+    <updated>2012-11-27T08:43:14-07:00</updated>
     <published>2012-11-25T00:00:00Z</published>
     <link href='http://mojavelinux.github.com/mysite/blog/2012/11/25/thats-a-wrap/' rel='alternate' type='text/html' />
     <summary>
@@ -21,7 +21,7 @@
   <entry>
     <id>http://mojavelinux.github.com/mysite/blog/2012/11/24/welcome-to-rwx/</id>
     <title>Welcome to RWX</title>
-    <updated>2012-11-27T03:26:21-07:00</updated>
+    <updated>2012-11-27T08:43:21-07:00</updated>
     <published>2012-11-24T00:00:00Z</published>
     <link href='http://mojavelinux.github.com/mysite/blog/2012/11/24/welcome-to-rwx/' rel='alternate' type='text/html' />
     <summary>
@@ -34,7 +34,7 @@
   <entry>
     <id>http://mojavelinux.github.com/mysite/blog/2012/11/24/are-you-awestruct/</id>
     <title>Are you awestruct?</title>
-    <updated>2012-11-27T03:26:21-07:00</updated>
+    <updated>2012-11-27T08:42:48-07:00</updated>
     <published>2012-11-24T00:00:00Z</published>
     <link href='http://mojavelinux.github.com/mysite/blog/2012/11/24/are-you-awestruct/' rel='alternate' type='text/html' />
     <summary>
