@@ -10,6 +10,6 @@ We are hackers.
 
 We like code we don't have to escape.
 
-   <xml>
-     <hell>Just frag it and use yaml</hell>
-   </xml>
+    <xml>
+      <hell>Just frag it and use yaml</hell>
+    </xml>
