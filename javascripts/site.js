@@ -4,7 +4,7 @@
     $('*[rel=tooltip]').tooltip({
       placement: 'right'
     });
-    return $('h2.title a').hover((function() {
+    return $('h1.title a').hover((function() {
       return $(this).css({
         fontStyle: 'italic'
       });
