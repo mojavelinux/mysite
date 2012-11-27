@@ -1,7 +1,6 @@
-// I gather this file is a starting point for the project.
-
-$iconSpritePath: url("../images/glyphicons-halflings.png");
-$iconWhiteSpritePath: url("../images/glyphicons-halflings-white.png");
+$bootstrapUrl: "//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.2.1";
+$iconSpritePath: url("#{$bootstrapUrl}/img/glyphicons-halflings.png");
+$iconWhiteSpritePath: url("#{$bootstrapUrl}/img/glyphicons-halflings-white.png");
 
 $navbarBackground: #303030;
 $navbarBackgroundHighlight: #6771DB;
